@@ -24,7 +24,7 @@
 // For more information, please refer to <http://unlicense.org>
 #![allow(unused_doc_comments)]
 
-pub mod xcm_config;
+mod xcm_config;
 
 // Substrate and Polkadot dependencies
 use crate::{Timestamp, XodeStaking, Preimage};
